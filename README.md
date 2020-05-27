@@ -1,2 +1,2 @@
-# This is a repository containing steps of building my website
+### This is a repository containing steps of building my website
 
