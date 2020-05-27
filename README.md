@@ -4,4 +4,5 @@
 - [x] style 4 divs 
 - [x] publish to github pages
 - [ ] adding contacts
+- [ ] adding services
 - [ ] searching about how to implement the mailing list
