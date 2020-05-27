@@ -1,14 +1,43 @@
 .myDiv {
 	padding: 2%;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+h2 {
+	font-family: Ubuntu;
+	font-size: large;
 }
 
 body {
-	background-color: #b9dfeb;
+	background-color: #ccf9ff;
 }
 
 blockquote {
 	padding: .5%;
+	font-style: italic;
+	font-size: medium;
+	font-family: Ubuntu;
+	font-weight: light;
+	color: black;
+	padding-bottom: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+	margin-bottom: 0;
 }
+
+
+blockquote::first-letter {
+	font-size: 200%;
+	font-weight: bold;
+}
+
 .Signature {
+	font-style: italic;
+	font-weight: lighter;
+	font-family: Ubuntu;
 	text-align: right;
+	font-size: small;
+	color: #ff0000;
 }
